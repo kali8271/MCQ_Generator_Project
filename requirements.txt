@@ -1,0 +1,31 @@
+# Web Scraping & APIs
+requests
+beautifulsoup4
+newspaper3k
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+nltk>=3.6.7
+spacy
+
+# Deep Learning & NLP
+torch
+transformers
+sentence-transformers
+
+# Summarization & Question Generation
+sumy
+textblob
+
+# Web Frameworks 
+django
+
+# Database 
+sqlite3
+pymongo
+
+# Deployment & Cloud
+gunicorn
+docker
